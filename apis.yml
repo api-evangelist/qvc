@@ -1,7 +1,12 @@
 aid: qvc
-url: https://raw.githubusercontent.com/api-evangelist/qvc/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/qvc/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.qvc.com
+description: >-
+  QVC is a multinational corporation specializing in televised home shopping owned
+  by Qurate Retail Group, broadcasting to millions of households worldwide and offering
+  products through television, mobile apps, and websites.
