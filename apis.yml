@@ -21,6 +21,11 @@ type: Index
 url: https://raw.githubusercontent.com/api-evangelist/qvc/refs/heads/main/apis.yml
 tags:
   - Retail
+  - E-Commerce
+  - Television Shopping
+  - Fortune 500
+tags_raw:
+  - Retail
   - Ecommerce
   - Television Shopping
   - Fortune 500
